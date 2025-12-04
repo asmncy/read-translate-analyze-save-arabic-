@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Al-Qira'a AI Reader",
+  "description": "An intelligent document reader for Arabic texts with built-in OCR, translation, and flashcard generation powered by Gemini 2.5.",
+  "requestFramePermissions": []
+}
